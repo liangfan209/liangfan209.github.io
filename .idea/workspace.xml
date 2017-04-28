@@ -2,19 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10e9d5b7-7829-4e05-bd87-cc94a472af86" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/huawei/任务卡.jpg" afterPath="$PROJECT_DIR$/phone_type/huawei/任务卡.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/huawei/单项权限.jpg" afterPath="$PROJECT_DIR$/phone_type/huawei/单项权限.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/huawei/开启所有权限.jpg" afterPath="$PROJECT_DIR$/phone_type/huawei/开启所有权限.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/huawei/权限管理.jpg" afterPath="$PROJECT_DIR$/phone_type/huawei/权限管理.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/huawei/锁屏不清理.png" afterPath="$PROJECT_DIR$/phone_type/huawei/锁屏不清理.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/meizu/任务卡.jpg" afterPath="$PROJECT_DIR$/phone_type/meizu/任务卡.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/IMG_20170424_182356-1493033378526-1493033870639.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/reset键位置.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/切方铁.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/切旋转片.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/双向螺帽.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/固定后面板.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/固定锁芯.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/安装前面板.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/安装后盖板.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/安装后面板2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/安装锁体.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/安装锁芯.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/开门方式.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/扫描二维码.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/方铁三角对正.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/调整锁舌.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lock_install/部件描述.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lock_install/安装.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lock_install/安装APP.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lock_install/安装准备.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lock_install/智能锁W300安装.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/meizu/保持后台运行.jpg" afterPath="$PROJECT_DIR$/phone_type/meizu/保持后台运行.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/meizu/后台管理.jpg" afterPath="$PROJECT_DIR$/phone_type/meizu/后台管理.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/meizu/权限管理.jpg" afterPath="$PROJECT_DIR$/phone_type/meizu/权限管理.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/meizu/锁屏显示.jpg" afterPath="$PROJECT_DIR$/phone_type/meizu/锁屏显示.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/sanxing/三星任务卡.png" afterPath="$PROJECT_DIR$/phone_type/sanxing/三星任务卡.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/vivo/vivo手机设置.png" afterPath="$PROJECT_DIR$/phone_type/vivo/vivo手机设置.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/vivo/vivo软件管理.png" afterPath="$PROJECT_DIR$/phone_type/vivo/vivo软件管理.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/config.html" afterPath="$PROJECT_DIR$/config/config.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lock_install/lock_install.html" afterPath="$PROJECT_DIR$/lock_install/lock_install.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone_type/meizu/index.html" afterPath="$PROJECT_DIR$/phone_type/meizu/index.html" />
     </list>
     <ignored path="liangfan209.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,21 +61,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phone_type/vivo/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state relative-caret-position="-225">
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phone_type/huawei/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lock_install.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lock_install/lock_install.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/config.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+            <state relative-caret-position="488">
+              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,16 +106,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../手机平台权限说明/智能锁安装流程/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -108,18 +134,8 @@
       <file leaf-file-name="lock_normal.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lock_normal/lock_normal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="1353">
               <caret line="99" column="42" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lock_install.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lock_install/lock_install.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -145,11 +161,11 @@
         <option value="$PROJECT_DIR$/main.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/../手机平台权限说明/智能锁安装流程/index.html" />
-        <option value="$PROJECT_DIR$/lock_install/lock_install.html" />
-        <option value="$PROJECT_DIR$/config/config.html" />
         <option value="$PROJECT_DIR$/lock_normal/lock_normal.html" />
         <option value="$PROJECT_DIR$/phone/phoneType.html" />
         <option value="$PROJECT_DIR$/phone_type/vivo/index.html" />
+        <option value="$PROJECT_DIR$/lock_install/lock_install.html" />
+        <option value="$PROJECT_DIR$/config/config.html" />
       </list>
     </option>
   </component>
@@ -372,20 +388,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lock_install" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="liangfan209.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="liangfan209.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -405,10 +407,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/phone_type/meizu" />
+      <recent name="$PROJECT_DIR$/lock_install" />
       <recent name="$PROJECT_DIR$/phone_type/vivo" />
       <recent name="$PROJECT_DIR$/phone_type/sanxing" />
       <recent name="$PROJECT_DIR$/phone_type/huawei" />
-      <recent name="$PROJECT_DIR$/phone_type/qita" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/phone_type/xm" />
@@ -499,18 +501,18 @@
       <updated>1492849371627</updated>
       <workItem from="1492849373638" duration="12841000" />
       <workItem from="1493255054999" duration="336000" />
-      <workItem from="1493255705422" duration="3861000" />
+      <workItem from="1493255705422" duration="6097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17038000" />
+    <option name="totallyTimeSpent" value="19274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="23" width="1228" height="739" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -767,30 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lock_install/lock_install.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lock_normal/lock_normal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="99" column="42" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -817,8 +795,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/phone_type/vivo/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="-225">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lock_install/智能锁W300安装.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phone_type/huawei/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lock_install/lock_install.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lock_normal/lock_normal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1353">
+          <caret line="99" column="42" selection-start-line="99" selection-start-column="42" selection-end-line="99" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
